@@ -3568,6 +3568,8 @@ tbody.collapse.show {
   display: none;
 }
 
+/*Navbar color options*/
+
 .navbar-light .navbar-brand {
   color: rgba(0, 0, 0, 0.9);
 }
@@ -3647,6 +3649,8 @@ tbody.collapse.show {
 .navbar-dark .navbar-text {
   color: rgba(255, 255, 255, 0.5);
 }
+
+/*Navbar color options*/
 
 .card {
   position: relative;
